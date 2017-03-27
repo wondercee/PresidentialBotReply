@@ -1,0 +1,21 @@
+{
+  "name": "presidentialbotreply",
+  "version": "1.0.0",
+  "description": "bot replies to people tweeting Presidentielle2017 hashtag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "replies",
+    "french",
+    "election",
+    "hashtag"
+  ],
+  "author": "CBarbecot",
+  "license": "ISC",
+  "dependencies": {
+    "node-twitterbot": "^0.2.2",
+    "twit": "^2.2.5"
+  }
+}
